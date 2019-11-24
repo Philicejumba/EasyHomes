@@ -1144,43 +1144,7 @@ a:hover {
   text-align: center;
 }
 
-/*======================================
-//--//-->   NEWS - CARD-B
-======================================*/
-
-/*.card-header-b {
-  padding: 1rem;
-  color: #ffffff;
-  position: absolute;
-  bottom: 20px;
-  z-index: 2;
-}
-
-.card-header-b .category-b {
-  font-size: .9rem;
-  background-color: #2eca6a;
-  padding: .3rem .7rem;
-  color: #313131;
-  letter-spacing: 0.030em;
-  border-radius: 50px;
-  text-decoration: none;
-}
-
-.card-header-b .title-2 {
-  margin-bottom: 0;
-  padding: .6rem 0;
-  font-size: 1.5rem;
-}
-
-.card-header-b .title-2 a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-.card-header-b .date-b {
-  color: #d8d8d8;
-  font-size: 1rem;
-}
+/
 
 /*------/ News Single /------*/
 
