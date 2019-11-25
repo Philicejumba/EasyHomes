@@ -97,6 +97,9 @@ a:hover {
   margin: 0;
 }
 
+.navbar-brand {
+  font-size: 20px;
+}
 /*------/ Nav Pills  /------*/
 
 .nav-pills-a.nav-pills .nav-link {
